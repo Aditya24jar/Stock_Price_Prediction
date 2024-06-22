@@ -79,5 +79,3 @@ The output for the 96 days is judged under the RMSE (root mean squared error) be
 9. Data Augmentation: Use techniques like time-series data augmentation to increase dataset diversity.
 10. Deployment and Monitoring: Develop a robust deployment pipeline and continuously monitor model performance.
 
-
-![Image Description](path_to_your_image)
