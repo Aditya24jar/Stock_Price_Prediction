@@ -20,6 +20,7 @@ Exploratory Data Analysis (EDA) was conducted to gain insights into the dataset'
 - Closing Price Analysis: Null values in the dataset were checked using df_closing.info(). Subplots visualized the closing prices of six companies plotted against day number, aiding in examining market trends and performance.
 - Variation Analysis: The closing prices were plotted against time with a horizontal line representing the mean closing price across all companies, aiding in comparing individual company trends to overall market behavior.
 
+### Stock Price Variation Analysis
 ![Stock Price Variation Analysis](Variation_in_stock_price.png)
 
 - Outlier Detection: Boxplots illustrated the central tendency, spread, and variability of closing prices over different years for each company, aiding in trend analysis and outlier detection. The impact of outliers was found to be negligible.
@@ -46,6 +47,7 @@ We implemented a neural model with the following architecture:
 
 This final model was reached after several iterations of training and hyperparameter tuning to minimize validation error.
 
+### Model Architecture
 ![Model Architecture Diagram](Model_architecture.png)
 
 ## Predictions
